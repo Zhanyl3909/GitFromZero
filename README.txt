@@ -1,2 +1,1 @@
-Hi everyone, I'm expreriencing Git
-Well, actually I still don't understand what is going on here?!
+Hi there, I am going to change previous file 
